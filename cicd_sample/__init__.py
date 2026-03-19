@@ -1,5 +1,9 @@
-__all__ = ["add"]
+__all__ = ["add", "minus"]
 
 
 def add(a: int, b: int) -> int:
     return a + b
+
+
+def minus(a: int, b: int) -> int:
+    return a - b
