@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from cicd_sample import add
+from cicd_sample import add, minus
 
 app = FastAPI()
 
