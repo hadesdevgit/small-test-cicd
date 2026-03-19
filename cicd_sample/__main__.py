@@ -2,7 +2,7 @@ from cicd_sample import add
 
 
 def main() -> None:
-    print(add(2, 3))
+    print(add(5, 3))
 
 
 if __name__ == "__main__":
